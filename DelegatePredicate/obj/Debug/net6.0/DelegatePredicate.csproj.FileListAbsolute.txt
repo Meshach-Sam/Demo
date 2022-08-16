@@ -1,0 +1,15 @@
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\obj\Debug\net6.0\DelegatePredicate.csproj.AssemblyReference.cache
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\obj\Debug\net6.0\DelegatePredicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\obj\Debug\net6.0\DelegatePredicate.AssemblyInfoInputs.cache
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\obj\Debug\net6.0\DelegatePredicate.AssemblyInfo.cs
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\obj\Debug\net6.0\DelegatePredicate.csproj.CoreCompileInputs.cache
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\bin\Debug\net6.0\DelegatePredicate.exe
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\bin\Debug\net6.0\DelegatePredicate.deps.json
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\bin\Debug\net6.0\DelegatePredicate.runtimeconfig.json
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\bin\Debug\net6.0\DelegatePredicate.dll
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\bin\Debug\net6.0\DelegatePredicate.pdb
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\obj\Debug\net6.0\DelegatePredicate.dll
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\obj\Debug\net6.0\refint\DelegatePredicate.dll
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\obj\Debug\net6.0\DelegatePredicate.pdb
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\obj\Debug\net6.0\DelegatePredicate.genruntimeconfig.cache
+C:\Users\samdev.meshach\Desktop\DelegatePredicate\obj\Debug\net6.0\ref\DelegatePredicate.dll

@@ -1,0 +1,15 @@
+C:\Users\samdev.meshach\Desktop\UserDefinedException\bin\Debug\net6.0\UserDefinedException.exe
+C:\Users\samdev.meshach\Desktop\UserDefinedException\bin\Debug\net6.0\UserDefinedException.deps.json
+C:\Users\samdev.meshach\Desktop\UserDefinedException\bin\Debug\net6.0\UserDefinedException.runtimeconfig.json
+C:\Users\samdev.meshach\Desktop\UserDefinedException\bin\Debug\net6.0\UserDefinedException.dll
+C:\Users\samdev.meshach\Desktop\UserDefinedException\bin\Debug\net6.0\UserDefinedException.pdb
+C:\Users\samdev.meshach\Desktop\UserDefinedException\obj\Debug\net6.0\UserDefinedException.csproj.AssemblyReference.cache
+C:\Users\samdev.meshach\Desktop\UserDefinedException\obj\Debug\net6.0\UserDefinedException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samdev.meshach\Desktop\UserDefinedException\obj\Debug\net6.0\UserDefinedException.AssemblyInfoInputs.cache
+C:\Users\samdev.meshach\Desktop\UserDefinedException\obj\Debug\net6.0\UserDefinedException.AssemblyInfo.cs
+C:\Users\samdev.meshach\Desktop\UserDefinedException\obj\Debug\net6.0\UserDefinedException.csproj.CoreCompileInputs.cache
+C:\Users\samdev.meshach\Desktop\UserDefinedException\obj\Debug\net6.0\UserDefinedException.dll
+C:\Users\samdev.meshach\Desktop\UserDefinedException\obj\Debug\net6.0\refint\UserDefinedException.dll
+C:\Users\samdev.meshach\Desktop\UserDefinedException\obj\Debug\net6.0\UserDefinedException.pdb
+C:\Users\samdev.meshach\Desktop\UserDefinedException\obj\Debug\net6.0\UserDefinedException.genruntimeconfig.cache
+C:\Users\samdev.meshach\Desktop\UserDefinedException\obj\Debug\net6.0\ref\UserDefinedException.dll
